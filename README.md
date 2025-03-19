@@ -27,10 +27,10 @@ Configure your development environment to use BDK.
 - Install dependencies: `npm install` (installs `@bitcoinerlab/bdk` per `package.json`).
 - Verify: Ensure `wallet.js` is present.
 
-Execute from the repository rootიდroot:
+Execute from the repository root:
 ```bash
 # Python
-pip install -r requirements.txt
+pip install bdkpython
 # JavaScript
 npm install
 ```
