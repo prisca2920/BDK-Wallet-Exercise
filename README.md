@@ -208,7 +208,7 @@ Confirmation message based on balance.
 ---
 
 ## Resources
-- **BDK Documentation:** [bdk.dev](https://bdk.dev)
+- **BDK Documentation:** [BDK](https://bitcoindevkit.org/docs/)
 - **Testnet Faucet:** [testnet-faucet.com](https://testnet-faucet.com)
 - **Support:** Consult the instructor or reference BDK’s API docs.
 
