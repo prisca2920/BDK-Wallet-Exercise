@@ -20,7 +20,7 @@ Welcome to the **BDK Wallet Exercise**, a hands-on component of *Advanced Bitcoi
 Configure your development environment to use BDK.
 
 #### Python
-- Install dependencies: `pip install -r requirements.txt` (includes `bdkpython`).
+- Install dependencies: `pip install bdkpython` (includes `bdkpython`).
 - Verify: Ensure `wallet.py` is present in the repository.
 
 #### JavaScript
