@@ -1,1 +1,4 @@
 wallets address
+Address: tb1q7m4nx8p5x9l0h9v2fdr90w6t9zg9ylwq4r3c3h  
+Balance: 50,000 satoshis (0.00050000 BTC)  
+TXID: e3a1b4f7c8d2e5a6f9b0c7d4a1e2f3b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1  
